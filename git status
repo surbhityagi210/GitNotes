@@ -1,0 +1,24 @@
+[1mdiff --git a/1. Jenkins Learning Notes - Configuration.docx b/1. Jenkins Learning Notes - Configuration.docx[m
+[1mindex 86b72ba..0f4638a 100644[m
+[1m--- a/1. Jenkins Learning Notes - Configuration.docx[m	
+[1m+++ b/1. Jenkins Learning Notes - Configuration.docx[m	
+[36m@@ -1,10 +1,7 @@[m
+[31m-[m
+ What is Jenkins?[m
+ Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.[m
+ Jenkins can be installed through native system packages, Docker, or even run standalone by any machine with a Java Runtime Environment (JRE) installed[m
+ [m
+[31m-[m
+[31m-[m
+ Continuous Integration and Continuous Delivery[m
+ As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project.[m
+ Easy installation[m
+[36m@@ -17,8 +14,6 @@[m [mExtensible[m
+ Jenkins can be extended via its plugin architecture, providing nearly infinite possibilities for what Jenkins can do.[m
+ Distributed[m
+ Jenkins can easily distribute work across multiple machines, helping drive builds, tests and deployments across multiple platforms faster.[m
+[31m-[m
+[31m-[m
+ Getting started with Jenkins[m
+ The Jenkins project produces two release lines, LTS and weekly. Depending on your organization's needs, one may be preferred over the other.[m
+ Both release lines are distributed as .war files, native packages, installers, and Docker containers. Packages with the  gear icon are maintained by third parties.[m
